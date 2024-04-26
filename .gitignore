@@ -11,3 +11,9 @@ Demos/Unity/Walkaround/client/Temp
 Demos/Unity/Walkaround/server/build
 Demos/Unity/Walkaround/server/dist
 Demos/Unity/Walkaround/server/lib/PlanetServer.jar
+/Demos/Unity/Walkaround/client/.vs
+/Demos/Unity/Walkaround/client/Library
+/Demos/Unity/Walkaround/client/Logs
+/Demos/Unity/Walkaround/client/obj
+/Demos/Unity/Walkaround/client/.vsconfig
+/PlanetServer/logs

@@ -2,4 +2,23 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/network/PsType.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/handler/exceptions/PsException.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/handler/PsChannelHandler.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/core/PsPipelineFactory.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/network/PsArray.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/handler/BasicClientRequestHandler.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/core/BaseLoginHandler.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/network/PsObject.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/PlanetServer.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/room/Room.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/session/UserSession.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/network/PsDataWrapper.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/core/CoreServer.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/handler/BasicServerEventHandler.java</file>
+            <file>file:/D:/GitHub/NodeJS/PlanetServer/PlanetServer/src/planetserver/core/PsExtension.java</file>
+        </group>
+    </open-files>
 </project-private>

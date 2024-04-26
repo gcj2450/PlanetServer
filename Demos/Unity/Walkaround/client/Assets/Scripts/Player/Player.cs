@@ -34,7 +34,7 @@ public class Player : MonoBehaviour
 
 	void Awake()
 	{
-		_renderer = renderer as SpriteRenderer;
+		_renderer = GetComponent<Renderer>() as SpriteRenderer;
 
 		Position = transform.position;
 

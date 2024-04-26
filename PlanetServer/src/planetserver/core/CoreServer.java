@@ -64,7 +64,7 @@ public class CoreServer
         bootstrap.setOption("child.tcpNoDelay", true);
         bootstrap.setOption("child.keepAlive", true);
 
-        channelJSon = bootstrap.bind(new InetSocketAddress(port));
+        channelJSon = bootstrap.bind(new InetSocketAddress("127.0.0.1",port));
 
         allChannels.add(channelJSon);
 
@@ -79,7 +79,9 @@ public class CoreServer
         logger.info("Listening on port " + port);
 
         //init the extension!!
-        extension.init();
+        if (extension!=null) {
+            extension.init();
+        }
     }
 
     public void stop()
